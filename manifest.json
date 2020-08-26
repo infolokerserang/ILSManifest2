@@ -1,0 +1,38 @@
+{
+  "name": "Info Loker Serang",
+  "short_name": "Info Loker Serang",
+  "start_url": "https://www.infolokerserang.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0499f7",
+  "description": "Loker Serang dan Sekitarnya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-lRDoKGdL4yw/X0X66D9vAeI/AAAAAAAAEE0/iomRvYlKTo8wH2vlsaT7JYuYex6w0u0dwCLcBGAsYHQ/s48/web_hi_res_512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lRDoKGdL4yw/X0X66D9vAeI/AAAAAAAAEE0/iomRvYlKTo8wH2vlsaT7JYuYex6w0u0dwCLcBGAsYHQ/s72/web_hi_res_512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lRDoKGdL4yw/X0X66D9vAeI/AAAAAAAAEE0/iomRvYlKTo8wH2vlsaT7JYuYex6w0u0dwCLcBGAsYHQ/s96/web_hi_res_512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lRDoKGdL4yw/X0X66D9vAeI/AAAAAAAAEE0/iomRvYlKTo8wH2vlsaT7JYuYex6w0u0dwCLcBGAsYHQ/s144/web_hi_res_512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lRDoKGdL4yw/X0X66D9vAeI/AAAAAAAAEE0/iomRvYlKTo8wH2vlsaT7JYuYex6w0u0dwCLcBGAsYHQ/s168/web_hi_res_512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lRDoKGdL4yw/X0X66D9vAeI/AAAAAAAAEE0/iomRvYlKTo8wH2vlsaT7JYuYex6w0u0dwCLcBGAsYHQ/s192/web_hi_res_512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lRDoKGdL4yw/X0X66D9vAeI/AAAAAAAAEE0/iomRvYlKTo8wH2vlsaT7JYuYex6w0u0dwCLcBGAsYHQ/s512/web_hi_res_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
